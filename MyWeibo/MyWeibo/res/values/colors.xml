@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fake_info_text">#ff909090</color>
+    <color name="mblog_top_info">#ffffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="text_num_gray">#333</color>
+    <color name="transparent">#00000000</color>
+    
+    <color name="page_error_background">@color/white</color>
+    <color name="page_error_text_color">@color/black</color>
+    
+
+    <!-- Google+ -->
+    <color name="stream_name_color">#333</color>
+    <color name="stream_link_color">#ff6f8fc7</color>
+    <color name="stream_content_color">#333</color>
+    <color name="stream_reshare_line_color">#ffcccccc</color>
+    <color name="default_stream_image_background">#eee</color>
+    
+    <!-- android-actionbar  -->
+    <color name="actionbar_separator">#AD6400</color>
+    <color name="actionbar_title">#FFFFFF</color>
+    <color name="actionbar_background_start">#AD6400</color>
+    <color name="actionbar_background_end">#FF9D17</color>
+    <color name="actionbar_background_item_pressed_start">#AD6400</color>
+    <color name="actionbar_background_item_pressed_end">#FF9D17</color>
+</resources>
